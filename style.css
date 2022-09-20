@@ -12,6 +12,7 @@ body {
 	min-height: 100vh;
 	overflow-x: hidden;
 	background: linear-gradient(#2b1055, #7597de);
+	width: 100%;
 }
 
 header {
@@ -105,6 +106,7 @@ section img#mountain_front {
 	font-size: 7.5vw;
 	z-index: 9;
 	right: px;
+	transition: down 500ms;
 }
 
 .btn {
