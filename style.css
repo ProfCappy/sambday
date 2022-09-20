@@ -105,8 +105,8 @@ section img#mountain_front {
 	white-space: nowrap;
 	font-size: 7.5vw;
 	z-index: 9;
-	right: px;
-	transition: down 500ms;
+	right: 200px;
+	animationDelay: 3s;
 }
 
 .btn {
